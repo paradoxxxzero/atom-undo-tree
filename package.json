@@ -1,0 +1,16 @@
+{
+  "name": "undo-tree",
+  "main": "./lib/undo-tree",
+  "version": "0.0.0",
+  "description": "Never lose history on undo anymore.",
+  "keywords": [
+    "undo", "tree"
+  ],
+  "repository": "https://github.com/paradoxxxzero/atom-undo-tree",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
