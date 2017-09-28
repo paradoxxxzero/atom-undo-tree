@@ -1,7 +1,7 @@
 {
   "name": "undo-tree",
   "main": "./lib/undo-tree",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Never lose your changes on undo/redo anymore.",
   "keywords": [
     "undo",
