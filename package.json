@@ -10,7 +10,7 @@
   "repository": "https://github.com/paradoxxxzero/atom-undo-tree",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": ">=1.21.0"
   },
   "dependencies": {}
 }
